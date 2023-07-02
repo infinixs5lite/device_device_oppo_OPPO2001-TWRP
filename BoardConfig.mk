@@ -18,7 +18,6 @@ DEVICE_PATH := device/OPPO/OP4B9B
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
-BUILD_BROKEN_DUP_RULES
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6771
