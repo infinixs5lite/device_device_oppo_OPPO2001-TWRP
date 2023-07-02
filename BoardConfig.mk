@@ -62,6 +62,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TARGET_USES_MKE2FS := true
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone3/temp
 TW_DEVICE_VERSION := Build By Kelvin
+
 # Statusbar icons flags
 TW_STATUS_ICONS_ALIGN := center
 TW_CUSTOM_CPU_POS := 50
